@@ -17,3 +17,9 @@ yarn build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Compiles and minifies for production22222
+```
+yarn build22222
+```
